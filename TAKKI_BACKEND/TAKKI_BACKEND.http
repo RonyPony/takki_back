@@ -1,0 +1,6 @@
+@TAKKI_BACKEND_HostAddress = http://localhost:5182
+
+GET {{TAKKI_BACKEND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

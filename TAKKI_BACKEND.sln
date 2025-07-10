@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAKKI_BACKEND", "TAKKI_BACKEND\TAKKI_BACKEND.csproj", "{73B6330B-36C0-4C88-8D90-EB1B3680AB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAKKI_DATA", "TAKKI_DATA\TAKKI_DATA.csproj", "{436F84C3-F5C5-490A-BAF9-44BCBCEE1463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAKKI_CORE", "TAKKI_CORE\TAKKI_CORE.csproj", "{31AD7A1D-2A3D-4B44-8436-917E2AFBAB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B6330B-36C0-4C88-8D90-EB1B3680AB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B6330B-36C0-4C88-8D90-EB1B3680AB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B6330B-36C0-4C88-8D90-EB1B3680AB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B6330B-36C0-4C88-8D90-EB1B3680AB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436F84C3-F5C5-490A-BAF9-44BCBCEE1463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436F84C3-F5C5-490A-BAF9-44BCBCEE1463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436F84C3-F5C5-490A-BAF9-44BCBCEE1463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436F84C3-F5C5-490A-BAF9-44BCBCEE1463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AD7A1D-2A3D-4B44-8436-917E2AFBAB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AD7A1D-2A3D-4B44-8436-917E2AFBAB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AD7A1D-2A3D-4B44-8436-917E2AFBAB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AD7A1D-2A3D-4B44-8436-917E2AFBAB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
