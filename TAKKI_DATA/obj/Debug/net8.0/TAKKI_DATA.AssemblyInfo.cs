@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAKKI_DATA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bacf30e5c104660b2fe90fb5eaa5785c7f4762a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAKKI_DATA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAKKI_DATA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
